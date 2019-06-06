@@ -20,6 +20,7 @@ import "prismjs/components/prism-markdown";
 import "prismjs/components/prism-objectivec";
 import "prismjs/components/prism-ocaml";
 import "prismjs/components/prism-python";
+import "prismjs/components/prism-scala";
 import "prismjs/components/prism-reason";
 import "prismjs/components/prism-sass";
 import "prismjs/components/prism-scss";
